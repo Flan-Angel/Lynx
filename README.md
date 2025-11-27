@@ -40,6 +40,49 @@ GITHUB REPOS
 
 
 
+
+LINUX RESOURCES from that Bread on Penguins vid
+
+
+-[Linux Filesystem DeepDive](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
+
+-[SuperGrub2Disk](https://www.supergrubdisk.org/super-grub2-disk/) - For when your linux bootloader is broken and you need to boot your system
+
+-[RescaTux](https://www.supergrubdisk.org/category/download/rescatuxdownloads/rescatux-stable/) - For when your Linux/Windows bootloader is broken and you need to boot your system
+
+-[CommandLineFu](https://www.commandlinefu.com/commands/browse) - Community that shares cool commandline stuff they found
+
+-[Linux Documentation](https://www.commandlinefu.com/commands/browse) - Better Linux Docs 
+
+-[PureShBible](https://github.com/dylanaraps/pure-sh-bible) - Resource for POSIX sh alternatives
+
+-[PureBashBible](https://github.com/dylanaraps/pure-bash-bible) - Resource for POSIX Bash alternatives
+
+-[ShellCheck](https://www.shellcheck.net/) - Checks your Shell_Scripts for bugs
+
+-[LinuxPerformance](https://www.brendangregg.com/linuxperf.html) 
+
+-[TealDeer](https://github.com/tealdeer-rs/tealdeer) - Examples for ManPages. TLDR but written in rust cause uhhh SPEED
+
+-[WarGames](https://overthewire.org/wargames/) Practice System_Security concepts using games
+
+-[]()
+
+
+
+
+WIKIS!!!
+
+
+-[Gentoo](https://wiki.gentoo.org/wiki/Main_Page)
+
+-[ARCH!!!!](https://wiki.archlinux.org/title/Main_page) - The DuckDuckGo Bang for the ArchWiki is !aw and !alp for ArchLinuxPackages
+
+-[Debian](https://wiki.debian.org/)
+
+
+
+
 COOL GAMES
 
 
